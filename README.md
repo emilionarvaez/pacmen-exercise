@@ -6,7 +6,8 @@ Pacmen Exercise
 
 > MIT xPRO - Week 7
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque? Ut
+A PacMen Project that was an exercise from MIT Full-Stack Developer course. 
+consectetur adipisicing elit. At, eaque? Ut
 praesentium expedita atque placeat, possimus beatae ea, totam provident
 necessitatibus assumenda alias, sunt quae aut rem eum magnam dolorem
 quisquam sequi suscipit labore illum soluta cum obcaecati! Repudiandae,
